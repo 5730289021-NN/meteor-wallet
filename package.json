@@ -19,5 +19,10 @@
       "server": "server/main.js"
     },
     "testModule": "tests/main.js"
+  },
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "mongodb://oaksmuth:TmurNativvai4ceA9@SG-galaxycluster-38726.servers.mongodirector.com:27017,SG-galaxycluster-38727.servers.mongodirector.com:27017/meteor-wallet-oak-meteorapp-com?replicaSet=RS-galaxycluster-0&ssl=true"
+    }
   }
 }
